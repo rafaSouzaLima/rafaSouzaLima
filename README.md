@@ -1,4 +1,4 @@
-### Olá, eu sou Rafael Lima!
+### Olá, eu sou Rafael de Souza!
 
 <!--
 **rafaSouzaLima/rafaSouzaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
